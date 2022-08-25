@@ -1,0 +1,14 @@
+font-face {
+  font-family: 'DancingScript';
+  src:
+    url('./fonts/DancingScript-Regular.ttf') format('truetype');
+  font-weight: 600;
+  font-style: normal;
+}
+
+.hello {
+  color: red;
+  font-family: 'DancingScript', cursive;
+  background: url('./cat1.png');
+  font-size: 24px;
+}
